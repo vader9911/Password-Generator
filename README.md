@@ -15,6 +15,9 @@ I created a logic chart to map out all of the possible combinations then tried t
 
 ![a picture of the finished password-generator window with a sample password generated.](assets/images/password-generator.png)
    
+## Sources
+
+MDN was used for code snippets.
 
 ## License
 
